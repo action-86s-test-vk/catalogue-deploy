@@ -1,5 +1,5 @@
 deployment:
-  imageRepo: singalasreenivasulu/catalogue 
-  imageVersion: IMAGE_VERSION # image version
+  imageRepo: 167819473967.dkr.ecr.us-east-1.amazonaws.com/roboshop/catalogue
+  imageVersion: 1.0.1 # image version
 service:
   servicePort: 8080 # service port
